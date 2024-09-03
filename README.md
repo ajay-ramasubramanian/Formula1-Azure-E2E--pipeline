@@ -67,7 +67,7 @@ The Medallion Architecture ensures a clear, scalable, and organized flow of data
 
 ## Data Analysis Dashboards:
 #### Dominant Driver Analysis
-![Dominant Driver Analysis](Images/dominant_driver.png)
+![Dominant Driver Analysis](Images/Dominant_driver.png)
 
 #### Total racers, Totatl points vs driver_nam
 ![Total racers, Totatl points vs driver_name](Images/total_races.png)
