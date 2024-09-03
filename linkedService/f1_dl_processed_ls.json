@@ -1,0 +1,12 @@
+{
+	"name": "f1_processed_ls",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://datalakeforprojformula1.dfs.core.windows.net/",
+			"encryptedCredential": "REDACTED"
+		}
+	}
+}
