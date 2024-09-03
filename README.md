@@ -54,4 +54,4 @@ The Medallion Architecture ensures a clear, scalable, and organized flow of data
 - Integrated Azure Data Factory with Azure Databricks and Azure Data Lake Storage Gen 2 to streamline data workflows and ensure seamless data connectivity.
 ![Transformation pipeline](<Images/Azure data factory pipeline.png>)
 
-### **Azure Unity Catalog**
+### **Azure Unity Catalog** 
