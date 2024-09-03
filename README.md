@@ -55,3 +55,29 @@ The Medallion Architecture ensures a clear, scalable, and organized flow of data
 ![Transformation pipeline](<Images/Azure data factory pipeline.png>)
 
 ### **Azure Unity Catalog** 
+- Added unified governance for data, AI assets, and analytics across clouds and platforms, enabling centralized management of permissions and access controls.
+- Provided fine-grained access control down to the row and column level, allowing organizations to implement granular security policies for sensitive data.
+- Introduced automated data lineage tracking and visualization, giving full visibility into data flows and dependencies to enhance transparency and compliance
+![Unity Catalog](Images/unitycatalog.png)
+
+## Technologies Used
+- Pyspark
+- SQL
+- Python
+
+## Data Analysis Dashboards:
+#### Dominant Driver Analysis
+![Dominant Driver Analysis](Images/dominant_driver.png)
+
+#### Total racers, Totatl points vs driver_nam
+![Total racers, Totatl points vs driver_name](Images/total_races.png)
+
+#### Dominant Team Analysis
+![Dominant Teams Analysis](Images/DominantTeams.png)
+
+### This graph shows Ferrari's dominance over the years
+![Ferrari dominance](Images/Ferraridominance.png)
+
+
+
+
